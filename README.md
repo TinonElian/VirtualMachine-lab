@@ -5,7 +5,7 @@ Configurar un enterno virtual aislado utilizando la herramienta VirtualBox para 
 
 ---
 
-## Software itulizad
+## Software utilizado
 
 - VirtualBox
 - VirtualBox Extension Pack
